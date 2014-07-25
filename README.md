@@ -1,6 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/to_chilean.svg)](http://badge.fury.io/rb/to_chilean)
 
-# guru_guru
+# to_chilean
 
 Transforma lo que quieras al lenguaje Chileno
 
